@@ -1,0 +1,3133 @@
+hour,Venue category name,count
+0,Afghan Restaurant,1
+0,African Restaurant,1
+0,American Restaurant,97
+0,Arcade,11
+0,Art Gallery,8
+0,Art Museum,8
+0,Arts & Crafts Store,5
+0,Asian Restaurant,20
+0,Australian Restaurant,3
+0,BBQ Joint,24
+0,Bagel Shop,2
+0,Bakery,19
+0,Bar,406
+0,Beach,3
+0,Beer Garden,12
+0,Bike Shop,4
+0,Bookstore,6
+0,Bowling Alley,6
+0,Brazilian Restaurant,3
+0,Breakfast Spot,6
+0,Brewery,5
+0,Bridge,22
+0,Burger Joint,51
+0,Burrito Place,4
+0,Cajun / Creole Restaurant,1
+0,Campground,6
+0,Candy Store,4
+0,Caribbean Restaurant,13
+0,Casino,2
+0,Cemetery,4
+0,Chinese Restaurant,24
+0,Church,13
+0,Coffee Shop,36
+0,College & University,1
+0,College Academic Building,36
+0,College Theater,1
+0,Comedy Club,3
+0,Community College,4
+0,Concert Hall,21
+0,Convenience Store,6
+0,Convention Center,7
+0,Cosmetics Shop,2
+0,Cuban Restaurant,7
+0,Cupcake Shop,4
+0,Deli / Bodega,42
+0,Department Store,29
+0,Dessert Shop,5
+0,Diner,13
+0,Donut Shop,7
+0,Dumpling Restaurant,1
+0,Eastern European Restaurant,1
+0,Embassy / Consulate,1
+0,Ethiopian Restaurant,1
+0,Event Space,11
+0,Factory,1
+0,Falafel Restaurant,2
+0,Fast Food Restaurant,18
+0,Ferry,3
+0,Flea Market,1
+0,Flower Shop,2
+0,Food,4
+0,Food & Drink Shop,107
+0,Food Truck,7
+0,French Restaurant,21
+0,Fried Chicken Joint,13
+0,Funeral Home,1
+0,Furniture / Home Store,4
+0,Garden,2
+0,Gastropub,12
+0,General Entertainment,21
+0,General Travel,10
+0,German Restaurant,6
+0,Gift Shop,2
+0,Government Building,20
+0,Greek Restaurant,6
+0,Harbor / Marina,2
+0,High School,5
+0,Historic Site,1
+0,Hot Dog Joint,8
+0,Housing Development,9
+0,Ice Cream Shop,34
+0,Indian Restaurant,12
+0,Italian Restaurant,59
+0,Japanese Restaurant,22
+0,Korean Restaurant,15
+0,Latin American Restaurant,7
+0,Laundry Service,12
+0,Law School,1
+0,Library,2
+0,Light Rail,5
+0,Mac & Cheese Joint,1
+0,Malaysian Restaurant,2
+0,Mall,13
+0,Mediterranean Restaurant,6
+0,Mexican Restaurant,80
+0,Middle Eastern Restaurant,4
+0,Miscellaneous Shop,10
+0,Moroccan Restaurant,1
+0,Movie Theater,45
+0,Moving Target,8
+0,Music Venue,45
+0,Nail Salon,1
+0,Nightlife Spot,2
+0,Other Great Outdoors,76
+0,Other Nightlife,4
+0,Outdoors & Recreation,3
+0,Park,64
+0,Performing Arts Venue,17
+0,Pet Store,2
+0,Pizza Place,59
+0,Playground,12
+0,Plaza,36
+0,Pool,3
+0,Pool Hall,6
+0,Portuguese Restaurant,1
+0,Ramen /  Noodle House,10
+0,Record Shop,2
+0,Residential Building (Apartment / Condo),55
+0,Restaurant,18
+0,Salad Place,3
+0,Salon / Barbershop,12
+0,Sandwich Place,22
+0,Scenic Lookout,7
+0,School,4
+0,Sculpture Garden,1
+0,Seafood Restaurant,16
+0,Shop & Service,1
+0,Smoke Shop,13
+0,Snack Place,1
+0,South American Restaurant,5
+0,Southern / Soul Food Restaurant,3
+0,Spa / Massage,6
+0,Spanish Restaurant,8
+0,Sporting Goods Shop,16
+0,Stadium,15
+0,Steakhouse,18
+0,Student Center,4
+0,Sushi Restaurant,44
+0,Synagogue,3
+0,Taco Place,5
+0,Tanning Salon,3
+0,Tapas Restaurant,5
+0,Tattoo Parlor,1
+0,Taxi,6
+0,Tea Room,4
+0,Thai Restaurant,33
+0,Theater,38
+0,Thrift / Vintage Store,3
+0,Toy / Game Store,5
+0,Travel & Transport,1
+0,University,6
+0,Vegetarian / Vegan Restaurant,8
+0,Video Game Store,1
+0,Video Store,1
+0,Vietnamese Restaurant,7
+0,Winery,1
+0,Wings Joint,7
+1,African Restaurant,1
+1,American Restaurant,70
+1,Animal Shelter,1
+1,Arcade,13
+1,Art Gallery,3
+1,Art Museum,2
+1,Arts & Crafts Store,1
+1,Arts & Entertainment,1
+1,Asian Restaurant,16
+1,Australian Restaurant,5
+1,BBQ Joint,18
+1,Bagel Shop,2
+1,Bakery,14
+1,Bar,388
+1,Beach,7
+1,Beer Garden,17
+1,Bookstore,1
+1,Bowling Alley,9
+1,Brazilian Restaurant,5
+1,Breakfast Spot,4
+1,Brewery,1
+1,Bridge,20
+1,Burger Joint,35
+1,Burrito Place,5
+1,Cajun / Creole Restaurant,1
+1,Campground,3
+1,Candy Store,1
+1,Car Dealership,1
+1,Caribbean Restaurant,2
+1,Casino,2
+1,Chinese Restaurant,30
+1,Church,7
+1,City,1
+1,Coffee Shop,28
+1,College Academic Building,19
+1,College Stadium,1
+1,College Theater,1
+1,Comedy Club,2
+1,Community College,2
+1,Concert Hall,10
+1,Convenience Store,7
+1,Convention Center,3
+1,Cosmetics Shop,1
+1,Cuban Restaurant,5
+1,Cupcake Shop,2
+1,Deli / Bodega,34
+1,Department Store,18
+1,Design Studio,1
+1,Dessert Shop,4
+1,Diner,20
+1,Donut Shop,9
+1,Dumpling Restaurant,3
+1,Eastern European Restaurant,3
+1,Elementary School,1
+1,Event Space,7
+1,Falafel Restaurant,1
+1,Fast Food Restaurant,19
+1,Ferry,5
+1,Filipino Restaurant,1
+1,Flower Shop,1
+1,Food,2
+1,Food & Drink Shop,65
+1,Food Truck,4
+1,French Restaurant,13
+1,Fried Chicken Joint,10
+1,Funeral Home,1
+1,Furniture / Home Store,1
+1,Gastropub,18
+1,General Entertainment,14
+1,General Travel,11
+1,German Restaurant,2
+1,Gift Shop,1
+1,Government Building,12
+1,Greek Restaurant,2
+1,Harbor / Marina,3
+1,High School,2
+1,Historic Site,2
+1,Hobby Shop,2
+1,Housing Development,3
+1,Ice Cream Shop,23
+1,Indian Restaurant,6
+1,Italian Restaurant,40
+1,Japanese Restaurant,19
+1,Korean Restaurant,10
+1,Latin American Restaurant,9
+1,Laundry Service,7
+1,Light Rail,4
+1,Malaysian Restaurant,3
+1,Mall,12
+1,Medical School,1
+1,Mediterranean Restaurant,6
+1,Mexican Restaurant,53
+1,Middle Eastern Restaurant,1
+1,Miscellaneous Shop,6
+1,Movie Theater,59
+1,Moving Target,2
+1,Museum,3
+1,Music Venue,44
+1,Nail Salon,1
+1,Other Great Outdoors,63
+1,Other Nightlife,4
+1,Outdoors & Recreation,4
+1,Park,30
+1,Performing Arts Venue,8
+1,Peruvian Restaurant,2
+1,Pet Store,2
+1,Pizza Place,37
+1,Playground,6
+1,Plaza,14
+1,Pool Hall,2
+1,Racetrack,1
+1,Ramen /  Noodle House,10
+1,Residential Building (Apartment / Condo),60
+1,Rest Area,1
+1,Restaurant,10
+1,Salad Place,1
+1,Salon / Barbershop,5
+1,Sandwich Place,17
+1,Scenic Lookout,7
+1,School,3
+1,Sculpture Garden,3
+1,Seafood Restaurant,18
+1,Smoke Shop,3
+1,South American Restaurant,8
+1,Southern / Soul Food Restaurant,4
+1,Spa / Massage,4
+1,Spanish Restaurant,6
+1,Sporting Goods Shop,2
+1,Stadium,17
+1,Steakhouse,11
+1,Student Center,1
+1,Sushi Restaurant,22
+1,Synagogue,2
+1,Taco Place,1
+1,Tanning Salon,1
+1,Tapas Restaurant,8
+1,Tattoo Parlor,1
+1,Taxi,4
+1,Tea Room,2
+1,Temple,1
+1,Thai Restaurant,13
+1,Theater,13
+1,Toy / Game Store,1
+1,Travel & Transport,2
+1,Turkish Restaurant,2
+1,University,1
+1,Vegetarian / Vegan Restaurant,1
+1,Video Store,1
+1,Vietnamese Restaurant,2
+1,Wings Joint,5
+1,Zoo,1
+2,African Restaurant,1
+2,American Restaurant,49
+2,Arcade,5
+2,Argentinian Restaurant,1
+2,Art Gallery,8
+2,Art Museum,1
+2,Arts & Crafts Store,2
+2,Arts & Entertainment,1
+2,Asian Restaurant,11
+2,BBQ Joint,12
+2,Bakery,13
+2,Bar,433
+2,Beach,6
+2,Beer Garden,20
+2,Bike Rental / Bike Share,1
+2,Bike Shop,1
+2,Bookstore,3
+2,Bowling Alley,5
+2,Brazilian Restaurant,2
+2,Breakfast Spot,3
+2,Brewery,2
+2,Bridge,16
+2,Burger Joint,16
+2,Burrito Place,5
+2,Cajun / Creole Restaurant,2
+2,Candy Store,1
+2,Caribbean Restaurant,11
+2,Cemetery,2
+2,Chinese Restaurant,21
+2,Church,6
+2,Coffee Shop,25
+2,College Academic Building,29
+2,College Theater,1
+2,Comedy Club,4
+2,Community College,2
+2,Concert Hall,10
+2,Convenience Store,4
+2,Convention Center,5
+2,Cosmetics Shop,1
+2,Cuban Restaurant,4
+2,Cupcake Shop,1
+2,Deli / Bodega,23
+2,Department Store,10
+2,Dessert Shop,10
+2,Diner,11
+2,Donut Shop,4
+2,Eastern European Restaurant,2
+2,Embassy / Consulate,1
+2,Event Space,7
+2,Factory,1
+2,Fast Food Restaurant,21
+2,Ferry,3
+2,Food,3
+2,Food & Drink Shop,41
+2,Food Truck,12
+2,French Restaurant,17
+2,Fried Chicken Joint,7
+2,Garden,1
+2,Gastropub,4
+2,General Entertainment,16
+2,General Travel,11
+2,German Restaurant,1
+2,Government Building,6
+2,Greek Restaurant,2
+2,Harbor / Marina,3
+2,Historic Site,2
+2,Hot Dog Joint,2
+2,Housing Development,8
+2,Ice Cream Shop,11
+2,Indian Restaurant,1
+2,Italian Restaurant,32
+2,Japanese Restaurant,7
+2,Korean Restaurant,6
+2,Latin American Restaurant,4
+2,Laundry Service,9
+2,Library,2
+2,Light Rail,2
+2,Malaysian Restaurant,1
+2,Mall,3
+2,Mediterranean Restaurant,3
+2,Mexican Restaurant,25
+2,Middle Eastern Restaurant,2
+2,Miscellaneous Shop,7
+2,Movie Theater,51
+2,Moving Target,2
+2,Museum,1
+2,Music Store,1
+2,Music Venue,33
+2,Nail Salon,1
+2,Other Great Outdoors,49
+2,Other Nightlife,6
+2,Outdoors & Recreation,2
+2,Park,23
+2,Performing Arts Venue,5
+2,Pizza Place,31
+2,Playground,4
+2,Plaza,11
+2,Pool Hall,5
+2,Professional & Other Places,1
+2,Racetrack,1
+2,Ramen /  Noodle House,2
+2,Residential Building (Apartment / Condo),56
+2,Rest Area,1
+2,Restaurant,12
+2,River,1
+2,Salon / Barbershop,3
+2,Sandwich Place,5
+2,Scenic Lookout,5
+2,School,5
+2,Sculpture Garden,1
+2,Seafood Restaurant,7
+2,Shrine,1
+2,Ski Area,1
+2,Smoke Shop,2
+2,Snack Place,1
+2,Sorority House,1
+2,South American Restaurant,3
+2,Southern / Soul Food Restaurant,1
+2,Spa / Massage,5
+2,Spanish Restaurant,4
+2,Stadium,16
+2,Steakhouse,8
+2,Student Center,2
+2,Sushi Restaurant,17
+2,Synagogue,3
+2,Taco Place,3
+2,Tapas Restaurant,5
+2,Tattoo Parlor,1
+2,Taxi,7
+2,Tea Room,1
+2,Thai Restaurant,7
+2,Theater,8
+2,Thrift / Vintage Store,1
+2,Toy / Game Store,1
+2,Turkish Restaurant,3
+2,University,5
+2,Vegetarian / Vegan Restaurant,1
+2,Video Store,2
+2,Wings Joint,1
+3,African Restaurant,1
+3,American Restaurant,40
+3,Arcade,4
+3,Art Gallery,2
+3,Arts & Entertainment,1
+3,Asian Restaurant,8
+3,Australian Restaurant,1
+3,BBQ Joint,13
+3,Bagel Shop,1
+3,Bakery,10
+3,Bar,355
+3,Beach,11
+3,Beer Garden,8
+3,Bike Shop,9
+3,Bookstore,2
+3,Bowling Alley,5
+3,Breakfast Spot,2
+3,Bridge,16
+3,Burger Joint,14
+3,Burrito Place,2
+3,Cajun / Creole Restaurant,2
+3,Campground,1
+3,Candy Store,1
+3,Caribbean Restaurant,4
+3,Casino,2
+3,Cemetery,2
+3,Chinese Restaurant,8
+3,Church,5
+3,Coffee Shop,20
+3,College Academic Building,25
+3,Comedy Club,2
+3,Cosmetics Shop,2
+3,Cuban Restaurant,6
+3,Deli / Bodega,24
+3,Department Store,2
+3,Design Studio,1
+3,Dessert Shop,4
+3,Dim Sum Restaurant,1
+3,Diner,19
+3,Donut Shop,2
+3,Event Space,5
+3,Factory,2
+3,Falafel Restaurant,3
+3,Fast Food Restaurant,17
+3,Ferry,2
+3,Food,1
+3,Food & Drink Shop,37
+3,Food Truck,7
+3,French Restaurant,5
+3,Fried Chicken Joint,2
+3,Furniture / Home Store,1
+3,Garden,1
+3,Gastropub,5
+3,General Entertainment,11
+3,General Travel,6
+3,German Restaurant,1
+3,Government Building,9
+3,Greek Restaurant,3
+3,Harbor / Marina,2
+3,High School,1
+3,Historic Site,1
+3,History Museum,2
+3,Hot Dog Joint,1
+3,Housing Development,2
+3,Ice Cream Shop,11
+3,Indian Restaurant,1
+3,Italian Restaurant,17
+3,Japanese Restaurant,5
+3,Jewelry Store,1
+3,Korean Restaurant,1
+3,Laundry Service,4
+3,Library,6
+3,Light Rail,4
+3,Malaysian Restaurant,1
+3,Mall,4
+3,Mexican Restaurant,21
+3,Middle Eastern Restaurant,1
+3,Miscellaneous Shop,4
+3,Motorcycle Shop,1
+3,Movie Theater,27
+3,Moving Target,4
+3,Music Venue,31
+3,Nail Salon,1
+3,Other Great Outdoors,60
+3,Other Nightlife,2
+3,Outdoors & Recreation,2
+3,Paper / Office Supplies Store,2
+3,Park,21
+3,Performing Arts Venue,7
+3,Pizza Place,22
+3,Playground,8
+3,Plaza,8
+3,Pool Hall,3
+3,Ramen /  Noodle House,5
+3,Residential Building (Apartment / Condo),44
+3,Rest Area,1
+3,Restaurant,10
+3,River,1
+3,Salad Place,2
+3,Salon / Barbershop,16
+3,Sandwich Place,3
+3,Scenic Lookout,6
+3,School,2
+3,Sculpture Garden,1
+3,Seafood Restaurant,6
+3,Shop & Service,1
+3,Smoke Shop,4
+3,South American Restaurant,1
+3,Southern / Soul Food Restaurant,2
+3,Spanish Restaurant,2
+3,Stadium,4
+3,Steakhouse,5
+3,Student Center,3
+3,Sushi Restaurant,2
+3,Taco Place,6
+3,Tanning Salon,2
+3,Tapas Restaurant,1
+3,Tattoo Parlor,3
+3,Taxi,9
+3,Tea Room,1
+3,Temple,2
+3,Thai Restaurant,5
+3,Theater,2
+3,Vegetarian / Vegan Restaurant,2
+3,Vietnamese Restaurant,2
+3,Wings Joint,2
+4,African Restaurant,1
+4,American Restaurant,21
+4,Arcade,11
+4,Art Gallery,12
+4,Arts & Entertainment,1
+4,Asian Restaurant,6
+4,Australian Restaurant,1
+4,BBQ Joint,5
+4,Bagel Shop,1
+4,Bakery,10
+4,Bar,343
+4,Beach,3
+4,Beer Garden,7
+4,Bike Shop,2
+4,Bowling Alley,1
+4,Breakfast Spot,1
+4,Bridge,19
+4,Burger Joint,11
+4,Cajun / Creole Restaurant,2
+4,Campground,8
+4,Car Dealership,1
+4,Caribbean Restaurant,4
+4,Chinese Restaurant,9
+4,Coffee Shop,15
+4,College Academic Building,17
+4,Concert Hall,1
+4,Convenience Store,2
+4,Convention Center,2
+4,Cosmetics Shop,1
+4,Cuban Restaurant,4
+4,Deli / Bodega,27
+4,Department Store,6
+4,Dessert Shop,4
+4,Diner,21
+4,Donut Shop,2
+4,Eastern European Restaurant,1
+4,Event Space,6
+4,Fast Food Restaurant,14
+4,Ferry,2
+4,Flea Market,1
+4,Food & Drink Shop,10
+4,Food Truck,2
+4,French Restaurant,3
+4,Fried Chicken Joint,5
+4,Garden,1
+4,Gastropub,4
+4,General Entertainment,10
+4,General Travel,6
+4,Government Building,7
+4,Greek Restaurant,1
+4,Harbor / Marina,3
+4,High School,2
+4,Hot Dog Joint,1
+4,Housing Development,1
+4,Ice Cream Shop,3
+4,Indian Restaurant,2
+4,Internet Cafe,1
+4,Italian Restaurant,7
+4,Japanese Restaurant,1
+4,Korean Restaurant,4
+4,Laundry Service,2
+4,Light Rail,11
+4,Malaysian Restaurant,1
+4,Mall,5
+4,Mexican Restaurant,11
+4,Middle Eastern Restaurant,3
+4,Miscellaneous Shop,2
+4,Motorcycle Shop,1
+4,Movie Theater,27
+4,Music Venue,38
+4,Other Great Outdoors,40
+4,Other Nightlife,2
+4,Outdoors & Recreation,3
+4,Park,10
+4,Performing Arts Venue,6
+4,Pizza Place,21
+4,Playground,5
+4,Plaza,8
+4,Pool Hall,5
+4,Professional & Other Places,1
+4,Residential Building (Apartment / Condo),42
+4,Rest Area,1
+4,Restaurant,6
+4,Salon / Barbershop,1
+4,Scenic Lookout,5
+4,School,3
+4,Sculpture Garden,1
+4,Seafood Restaurant,2
+4,Shrine,1
+4,Southern / Soul Food Restaurant,1
+4,Spa / Massage,5
+4,Spanish Restaurant,2
+4,Stadium,3
+4,Student Center,2
+4,Sushi Restaurant,2
+4,Synagogue,1
+4,Taco Place,1
+4,Tapas Restaurant,4
+4,Tattoo Parlor,2
+4,Taxi,6
+4,Temple,1
+4,Thai Restaurant,1
+4,Theater,2
+4,University,1
+4,Vegetarian / Vegan Restaurant,2
+5,American Restaurant,12
+5,Arcade,8
+5,Art Gallery,2
+5,Asian Restaurant,3
+5,BBQ Joint,4
+5,Bakery,1
+5,Bar,283
+5,Beach,1
+5,Beer Garden,1
+5,Bike Shop,11
+5,Breakfast Spot,3
+5,Bridge,6
+5,Burger Joint,6
+5,Campground,2
+5,Car Dealership,1
+5,Caribbean Restaurant,3
+5,Cemetery,1
+5,Chinese Restaurant,8
+5,Church,1
+5,Coffee Shop,10
+5,College Academic Building,16
+5,Convenience Store,1
+5,Cosmetics Shop,1
+5,Cuban Restaurant,1
+5,Deli / Bodega,31
+5,Department Store,4
+5,Dessert Shop,1
+5,Diner,10
+5,Donut Shop,4
+5,Falafel Restaurant,1
+5,Fast Food Restaurant,12
+5,Food,1
+5,Food & Drink Shop,15
+5,Food Truck,6
+5,French Restaurant,4
+5,Fried Chicken Joint,3
+5,Gastropub,3
+5,General Entertainment,1
+5,General Travel,4
+5,Government Building,8
+5,Greek Restaurant,1
+5,High School,1
+5,Hobby Shop,1
+5,Hot Dog Joint,5
+5,Housing Development,1
+5,Indian Restaurant,4
+5,Italian Restaurant,7
+5,Korean Restaurant,1
+5,Latin American Restaurant,3
+5,Laundry Service,1
+5,Library,2
+5,Mexican Restaurant,10
+5,Movie Theater,11
+5,Moving Target,4
+5,Music Venue,13
+5,Nightlife Spot,1
+5,Other Great Outdoors,31
+5,Outdoors & Recreation,2
+5,Park,4
+5,Performing Arts Venue,2
+5,Pet Store,1
+5,Pizza Place,16
+5,Playground,3
+5,Plaza,4
+5,Record Shop,1
+5,Residential Building (Apartment / Condo),26
+5,Restaurant,8
+5,River,1
+5,Salon / Barbershop,7
+5,Sandwich Place,2
+5,Scenic Lookout,6
+5,School,2
+5,Sculpture Garden,1
+5,Seafood Restaurant,1
+5,Shop & Service,1
+5,Smoke Shop,2
+5,Spanish Restaurant,1
+5,Stadium,4
+5,Sushi Restaurant,1
+5,Synagogue,1
+5,Taco Place,1
+5,Tattoo Parlor,1
+5,Taxi,5
+5,Travel & Transport,1
+5,Vegetarian / Vegan Restaurant,5
+5,Video Store,1
+5,Vietnamese Restaurant,1
+5,Wings Joint,1
+6,American Restaurant,9
+6,Arcade,7
+6,Art Gallery,1
+6,Asian Restaurant,2
+6,BBQ Joint,1
+6,Bakery,1
+6,Bar,154
+6,Beach,2
+6,Beer Garden,1
+6,Bowling Alley,1
+6,Breakfast Spot,2
+6,Bridge,2
+6,Burger Joint,6
+6,Campground,2
+6,Candy Store,1
+6,Chinese Restaurant,3
+6,Church,1
+6,Coffee Shop,8
+6,College Academic Building,17
+6,Convenience Store,3
+6,Convention Center,2
+6,Deli / Bodega,19
+6,Department Store,2
+6,Diner,11
+6,Donut Shop,3
+6,Eastern European Restaurant,1
+6,Event Space,2
+6,Fast Food Restaurant,14
+6,Food,2
+6,Food & Drink Shop,7
+6,Food Truck,4
+6,French Restaurant,2
+6,Gaming Cafe,1
+6,Gastropub,1
+6,General Entertainment,5
+6,General Travel,6
+6,Government Building,1
+6,Harbor / Marina,1
+6,Hot Dog Joint,4
+6,Indian Restaurant,1
+6,Italian Restaurant,1
+6,Japanese Restaurant,2
+6,Korean Restaurant,2
+6,Library,1
+6,Mall,2
+6,Mexican Restaurant,9
+6,Middle Eastern Restaurant,1
+6,Miscellaneous Shop,2
+6,Movie Theater,12
+6,Moving Target,2
+6,Music Venue,10
+6,Other Great Outdoors,38
+6,Other Nightlife,2
+6,Park,2
+6,Pizza Place,7
+6,Playground,1
+6,Plaza,3
+6,Residential Building (Apartment / Condo),22
+6,Rest Area,1
+6,Restaurant,3
+6,Salon / Barbershop,2
+6,Sandwich Place,2
+6,Scenic Lookout,2
+6,School,1
+6,Smoke Shop,1
+6,Southern / Soul Food Restaurant,1
+6,Spa / Massage,1
+6,Stadium,6
+6,Student Center,1
+6,Sushi Restaurant,2
+6,Taco Place,1
+6,Taxi,4
+6,Temple,2
+6,University,1
+6,Vegetarian / Vegan Restaurant,2
+7,American Restaurant,7
+7,Arcade,2
+7,Arts & Crafts Store,2
+7,BBQ Joint,1
+7,Bagel Shop,2
+7,Bakery,2
+7,Bar,74
+7,Beach,3
+7,Bike Rental / Bike Share,1
+7,Breakfast Spot,1
+7,Bridge,3
+7,Burger Joint,2
+7,Burrito Place,1
+7,Campground,1
+7,Candy Store,1
+7,Cemetery,1
+7,Chinese Restaurant,2
+7,Church,2
+7,Coffee Shop,10
+7,College Academic Building,14
+7,Convenience Store,2
+7,Cuban Restaurant,1
+7,Deli / Bodega,9
+7,Diner,11
+7,Donut Shop,1
+7,Event Space,5
+7,Falafel Restaurant,3
+7,Fast Food Restaurant,6
+7,Ferry,1
+7,Food & Drink Shop,5
+7,Food Truck,3
+7,Fraternity House,1
+7,French Restaurant,1
+7,Gaming Cafe,1
+7,Gastropub,2
+7,General Entertainment,2
+7,General Travel,4
+7,Harbor / Marina,1
+7,Historic Site,1
+7,Hot Dog Joint,1
+7,Ice Cream Shop,1
+7,Indian Restaurant,1
+7,Internet Cafe,1
+7,Italian Restaurant,1
+7,Korean Restaurant,1
+7,Laundry Service,1
+7,Mexican Restaurant,5
+7,Miscellaneous Shop,2
+7,Molecular Gastronomy Restaurant,1
+7,Movie Theater,4
+7,Music Venue,4
+7,Other Great Outdoors,12
+7,Outdoors & Recreation,1
+7,Park,3
+7,Pizza Place,7
+7,Plaza,1
+7,Professional & Other Places,1
+7,Residential Building (Apartment / Condo),16
+7,Restaurant,2
+7,Salon / Barbershop,1
+7,Sandwich Place,1
+7,Scenic Lookout,4
+7,School,2
+7,Sculpture Garden,1
+7,Smoke Shop,2
+7,South American Restaurant,1
+7,Sporting Goods Shop,1
+7,Stadium,1
+7,Steakhouse,1
+7,Taxi,3
+7,Temple,1
+7,Theater,1
+7,Vegetarian / Vegan Restaurant,1
+8,American Restaurant,1
+8,Animal Shelter,1
+8,Arcade,2
+8,Art Museum,2
+8,Asian Restaurant,3
+8,Bar,25
+8,Beach,6
+8,Bike Shop,1
+8,Bowling Alley,1
+8,Breakfast Spot,4
+8,Bridge,7
+8,Campground,3
+8,Candy Store,8
+8,Chinese Restaurant,1
+8,Coffee Shop,9
+8,College Academic Building,2
+8,Convention Center,3
+8,Cuban Restaurant,1
+8,Deli / Bodega,9
+8,Diner,5
+8,Donut Shop,1
+8,Event Space,1
+8,Fast Food Restaurant,6
+8,Food & Drink Shop,3
+8,Food Truck,2
+8,French Restaurant,3
+8,Fried Chicken Joint,2
+8,General College & University,1
+8,General Entertainment,2
+8,General Travel,1
+8,Government Building,3
+8,Greek Restaurant,1
+8,Harbor / Marina,1
+8,Housing Development,1
+8,Ice Cream Shop,1
+8,Indian Restaurant,1
+8,Italian Restaurant,2
+8,Latin American Restaurant,1
+8,Library,1
+8,Mall,1
+8,Mexican Restaurant,6
+8,Miscellaneous Shop,1
+8,Moroccan Restaurant,1
+8,Mosque,1
+8,Movie Theater,2
+8,Moving Target,1
+8,Other Great Outdoors,7
+8,Park,2
+8,Performing Arts Venue,1
+8,Pizza Place,6
+8,Pool Hall,1
+8,Professional & Other Places,1
+8,Ramen /  Noodle House,1
+8,Residential Building (Apartment / Condo),9
+8,Rest Area,3
+8,Restaurant,2
+8,River,1
+8,Salon / Barbershop,1
+8,Sandwich Place,1
+8,School,2
+8,Ski Area,3
+8,Smoke Shop,2
+8,Snack Place,1
+8,Spanish Restaurant,2
+8,Sporting Goods Shop,2
+8,Stadium,2
+8,Steakhouse,1
+8,Sushi Restaurant,1
+8,Taxi,3
+8,Temple,1
+8,Theater,1
+8,University,2
+8,Vegetarian / Vegan Restaurant,12
+9,American Restaurant,3
+9,Animal Shelter,3
+9,Asian Restaurant,1
+9,BBQ Joint,2
+9,Bakery,3
+9,Bar,24
+9,Beach,3
+9,Bike Shop,1
+9,Bridge,9
+9,Burger Joint,4
+9,Candy Store,2
+9,Caribbean Restaurant,2
+9,Church,4
+9,Coffee Shop,11
+9,College Academic Building,4
+9,College Stadium,1
+9,Convenience Store,2
+9,Deli / Bodega,25
+9,Department Store,1
+9,Diner,5
+9,Donut Shop,8
+9,Elementary School,1
+9,Event Space,1
+9,Factory,1
+9,Fast Food Restaurant,4
+9,Food & Drink Shop,12
+9,Food Truck,2
+9,French Restaurant,2
+9,Fried Chicken Joint,1
+9,General College & University,1
+9,General Entertainment,1
+9,General Travel,1
+9,Government Building,10
+9,Hot Dog Joint,3
+9,Korean Restaurant,1
+9,Latin American Restaurant,2
+9,Laundry Service,1
+9,Mall,3
+9,Mexican Restaurant,8
+9,Movie Theater,1
+9,Music Venue,2
+9,Other Great Outdoors,22
+9,Other Nightlife,1
+9,Outdoors & Recreation,1
+9,Park,11
+9,Performing Arts Venue,1
+9,Pizza Place,1
+9,Playground,3
+9,Plaza,3
+9,Ramen /  Noodle House,2
+9,Residential Building (Apartment / Condo),9
+9,Rest Area,8
+9,Restaurant,1
+9,Salon / Barbershop,1
+9,Sandwich Place,15
+9,Scenic Lookout,4
+9,Ski Area,6
+9,Sporting Goods Shop,4
+9,Stadium,1
+9,Synagogue,1
+9,Taxi,2
+9,Toy / Game Store,1
+9,Vegetarian / Vegan Restaurant,13
+9,Zoo,1
+10,American Restaurant,1
+10,Animal Shelter,3
+10,Art Museum,1
+10,Asian Restaurant,1
+10,BBQ Joint,1
+10,Bagel Shop,16
+10,Bakery,9
+10,Bar,37
+10,Beach,3
+10,Breakfast Spot,5
+10,Bridge,14
+10,Burger Joint,1
+10,Candy Store,1
+10,Caribbean Restaurant,1
+10,Cemetery,1
+10,Chinese Restaurant,8
+10,Church,5
+10,Coffee Shop,62
+10,College Academic Building,2
+10,Convenience Store,2
+10,Convention Center,7
+10,Cuban Restaurant,1
+10,Cupcake Shop,3
+10,Deli / Bodega,42
+10,Department Store,4
+10,Diner,3
+10,Donut Shop,23
+10,Event Space,1
+10,Factory,2
+10,Fast Food Restaurant,5
+10,Ferry,30
+10,Food & Drink Shop,17
+10,Food Truck,4
+10,French Restaurant,7
+10,Fried Chicken Joint,1
+10,General Entertainment,18
+10,General Travel,20
+10,Government Building,13
+10,High School,1
+10,Historic Site,1
+10,Housing Development,1
+10,Ice Cream Shop,1
+10,Italian Restaurant,1
+10,Korean Restaurant,1
+10,Laundry Service,2
+10,Library,2
+10,Light Rail,4
+10,Mall,1
+10,Medical School,2
+10,Movie Theater,3
+10,Museum,2
+10,Music Venue,5
+10,Nail Salon,1
+10,Other Great Outdoors,65
+10,Other Nightlife,1
+10,Outdoors & Recreation,1
+10,Park,35
+10,Pizza Place,4
+10,Plaza,4
+10,Pool Hall,1
+10,Professional & Other Places,1
+10,Record Shop,1
+10,Rental Car Location,1
+10,Residential Building (Apartment / Condo),15
+10,Rest Area,4
+10,River,1
+10,Salon / Barbershop,1
+10,Sandwich Place,1
+10,Scenic Lookout,2
+10,Shrine,1
+10,Ski Area,4
+10,Spa / Massage,4
+10,Spanish Restaurant,1
+10,Sporting Goods Shop,13
+10,Stadium,6
+10,Sushi Restaurant,1
+10,Synagogue,1
+10,Taxi,1
+10,University,1
+10,Vegetarian / Vegan Restaurant,15
+10,Zoo,1
+11,American Restaurant,17
+11,Arcade,1
+11,Art Gallery,1
+11,Art Museum,1
+11,BBQ Joint,2
+11,Bagel Shop,14
+11,Bakery,26
+11,Bar,32
+11,Beach,6
+11,Bookstore,2
+11,Bowling Alley,1
+11,Breakfast Spot,12
+11,Brewery,1
+11,Bridge,16
+11,Burger Joint,2
+11,Burrito Place,1
+11,Campground,1
+11,Candy Store,1
+11,Caribbean Restaurant,3
+11,Casino,2
+11,Chinese Restaurant,9
+11,Church,3
+11,Coffee Shop,172
+11,College Academic Building,41
+11,College Stadium,2
+11,Community College,1
+11,Convenience Store,9
+11,Convention Center,11
+11,Deli / Bodega,79
+11,Department Store,10
+11,Dessert Shop,1
+11,Diner,11
+11,Donut Shop,51
+11,Elementary School,2
+11,Event Space,2
+11,Factory,1
+11,Fast Food Restaurant,8
+11,Ferry,19
+11,Filipino Restaurant,1
+11,Food,1
+11,Food & Drink Shop,50
+11,Food Truck,3
+11,French Restaurant,7
+11,Fried Chicken Joint,3
+11,General College & University,20
+11,General Entertainment,8
+11,General Travel,24
+11,Government Building,14
+11,Harbor / Marina,2
+11,High School,51
+11,Historic Site,4
+11,Housing Development,1
+11,Italian Restaurant,2
+11,Japanese Restaurant,1
+11,Jewelry Store,1
+11,Latin American Restaurant,2
+11,Laundry Service,11
+11,Law School,1
+11,Library,4
+11,Light Rail,59
+11,Mall,2
+11,Medical School,1
+11,Mexican Restaurant,4
+11,Miscellaneous Shop,6
+11,Moving Target,1
+11,Museum,5
+11,Music Venue,18
+11,Nail Salon,1
+11,Nightlife Spot,1
+11,Nursery School,1
+11,Other Great Outdoors,90
+11,Outdoors & Recreation,5
+11,Park,93
+11,Pet Store,1
+11,Pizza Place,6
+11,Playground,2
+11,Plaza,10
+11,Pool,3
+11,Professional & Other Places,2
+11,Racetrack,5
+11,Record Shop,7
+11,Residential Building (Apartment / Condo),52
+11,Rest Area,3
+11,Restaurant,4
+11,River,3
+11,Salon / Barbershop,4
+11,Sandwich Place,10
+11,Scenic Lookout,5
+11,School,61
+11,Science Museum,1
+11,Sculpture Garden,1
+11,Shrine,1
+11,Smoke Shop,2
+11,Snack Place,1
+11,South American Restaurant,1
+11,Spa / Massage,5
+11,Spanish Restaurant,3
+11,Sporting Goods Shop,7
+11,Stadium,2
+11,Steakhouse,1
+11,Student Center,6
+11,Sushi Restaurant,1
+11,Synagogue,2
+11,Tanning Salon,3
+11,Taxi,1
+11,Tea Room,1
+11,Temple,1
+11,Thai Restaurant,1
+11,Theater,2
+11,Thrift / Vintage Store,1
+11,Toy / Game Store,1
+11,Trade School,2
+11,Turkish Restaurant,1
+11,University,12
+11,Video Store,1
+11,Vietnamese Restaurant,1
+11,Zoo,1
+12,American Restaurant,20
+12,Animal Shelter,4
+12,Arcade,2
+12,Art Gallery,1
+12,Art Museum,2
+12,Arts & Crafts Store,3
+12,Arts & Entertainment,9
+12,BBQ Joint,1
+12,Bagel Shop,14
+12,Bakery,27
+12,Bar,43
+12,Beach,8
+12,Bike Shop,3
+12,Bookstore,1
+12,Bowling Alley,1
+12,Breakfast Spot,11
+12,Brewery,1
+12,Bridge,24
+12,Burger Joint,10
+12,Burrito Place,3
+12,Campground,3
+12,Candy Store,4
+12,Caribbean Restaurant,1
+12,Cemetery,1
+12,Chinese Restaurant,9
+12,Church,23
+12,City,1
+12,Coffee Shop,260
+12,College & University,7
+12,College Academic Building,126
+12,College Stadium,27
+12,College Theater,1
+12,Community College,14
+12,Convenience Store,4
+12,Convention Center,10
+12,Cosmetics Shop,3
+12,Cupcake Shop,2
+12,Deli / Bodega,89
+12,Department Store,6
+12,Dessert Shop,1
+12,Dim Sum Restaurant,1
+12,Diner,13
+12,Donut Shop,43
+12,Elementary School,6
+12,Embassy / Consulate,1
+12,Event Space,9
+12,Fast Food Restaurant,20
+12,Ferry,13
+12,Flower Shop,2
+12,Food,3
+12,Food & Drink Shop,71
+12,Food Truck,2
+12,Fraternity House,1
+12,French Restaurant,4
+12,Funeral Home,1
+12,Garden,1
+12,General College & University,19
+12,General Entertainment,13
+12,General Travel,13
+12,Gift Shop,3
+12,Government Building,43
+12,Harbor / Marina,5
+12,High School,41
+12,Historic Site,1
+12,History Museum,1
+12,Housing Development,3
+12,Italian Restaurant,1
+12,Jewelry Store,1
+12,Korean Restaurant,2
+12,Laundry Service,17
+12,Library,18
+12,Light Rail,21
+12,Mall,5
+12,Medical School,1
+12,Mexican Restaurant,2
+12,Miscellaneous Shop,18
+12,Moving Target,2
+12,Music Venue,10
+12,Nursery School,9
+12,Other Great Outdoors,84
+12,Outdoors & Recreation,5
+12,Park,69
+12,Performing Arts Venue,4
+12,Pet Store,1
+12,Pizza Place,14
+12,Playground,2
+12,Plaza,13
+12,Pool,5
+12,Professional & Other Places,2
+12,Racetrack,1
+12,Record Shop,15
+12,Recycling Facility,3
+12,Rental Car Location,1
+12,Residential Building (Apartment / Condo),54
+12,Rest Area,9
+12,Restaurant,4
+12,River,14
+12,Salon / Barbershop,15
+12,Sandwich Place,20
+12,Scenic Lookout,4
+12,School,90
+12,Sculpture Garden,2
+12,Shrine,4
+12,Ski Area,2
+12,Smoke Shop,2
+12,Snack Place,31
+12,Spa / Massage,4
+12,Spanish Restaurant,3
+12,Spiritual Center,1
+12,Sporting Goods Shop,4
+12,Stadium,7
+12,Steakhouse,2
+12,Student Center,4
+12,Synagogue,3
+12,Tanning Salon,2
+12,Tattoo Parlor,4
+12,Taxi,2
+12,Tea Room,1
+12,Temple,1
+12,Theater,4
+12,Toy / Game Store,1
+12,Trade School,2
+12,University,33
+12,Vegetarian / Vegan Restaurant,2
+13,African Restaurant,4
+13,American Restaurant,32
+13,Animal Shelter,3
+13,Arcade,4
+13,Art Gallery,6
+13,Art Museum,6
+13,Arts & Crafts Store,5
+13,Asian Restaurant,1
+13,BBQ Joint,1
+13,Bagel Shop,26
+13,Bakery,38
+13,Bar,48
+13,Beach,5
+13,Beer Garden,1
+13,Bookstore,12
+13,Breakfast Spot,9
+13,Bridge,29
+13,Burger Joint,4
+13,Burrito Place,5
+13,Candy Store,2
+13,Car Wash,1
+13,Casino,1
+13,Cemetery,3
+13,Chinese Restaurant,4
+13,Church,24
+13,Coffee Shop,278
+13,College & University,3
+13,College Academic Building,103
+13,College Stadium,3
+13,Community College,12
+13,Convenience Store,4
+13,Convention Center,10
+13,Cosmetics Shop,4
+13,Cupcake Shop,6
+13,Deli / Bodega,113
+13,Department Store,26
+13,Design Studio,1
+13,Dessert Shop,2
+13,Diner,23
+13,Donut Shop,30
+13,Eastern European Restaurant,2
+13,Elementary School,2
+13,Event Space,12
+13,Falafel Restaurant,1
+13,Fast Food Restaurant,20
+13,Ferry,16
+13,Flower Shop,1
+13,Food,1
+13,Food & Drink Shop,108
+13,Food Truck,8
+13,French Restaurant,7
+13,Fried Chicken Joint,2
+13,Furniture / Home Store,8
+13,Garden,1
+13,General College & University,11
+13,General Entertainment,29
+13,General Travel,17
+13,Gift Shop,2
+13,Government Building,45
+13,Harbor / Marina,3
+13,High School,15
+13,Historic Site,2
+13,History Museum,1
+13,Hobby Shop,1
+13,Housing Development,3
+13,Ice Cream Shop,7
+13,Italian Restaurant,17
+13,Jewelry Store,1
+13,Latin American Restaurant,2
+13,Laundry Service,12
+13,Law School,4
+13,Library,3
+13,Mall,14
+13,Medical School,2
+13,Mexican Restaurant,4
+13,Miscellaneous Shop,20
+13,Movie Theater,17
+13,Moving Target,7
+13,Museum,4
+13,Music Venue,12
+13,Nursery School,3
+13,Other Great Outdoors,68
+13,Other Nightlife,1
+13,Outdoors & Recreation,1
+13,Paper / Office Supplies Store,2
+13,Park,57
+13,Performing Arts Venue,4
+13,Pet Store,5
+13,Pizza Place,9
+13,Playground,10
+13,Plaza,13
+13,Pool,9
+13,Professional & Other Places,7
+13,Racetrack,1
+13,Record Shop,10
+13,Recycling Facility,13
+13,Residential Building (Apartment / Condo),56
+13,Rest Area,2
+13,Restaurant,5
+13,Salad Place,1
+13,Salon / Barbershop,19
+13,Sandwich Place,34
+13,Scenic Lookout,5
+13,School,62
+13,Sculpture Garden,2
+13,Seafood Restaurant,2
+13,Shop & Service,2
+13,Shrine,4
+13,Ski Area,3
+13,Smoke Shop,3
+13,South American Restaurant,2
+13,Southern / Soul Food Restaurant,1
+13,Spa / Massage,5
+13,Spanish Restaurant,4
+13,Spiritual Center,1
+13,Sporting Goods Shop,8
+13,Stadium,5
+13,Steakhouse,1
+13,Student Center,6
+13,Sushi Restaurant,1
+13,Synagogue,4
+13,Taco Place,1
+13,Tanning Salon,1
+13,Tattoo Parlor,4
+13,Taxi,2
+13,Tea Room,2
+13,Temple,1
+13,Theater,22
+13,Toy / Game Store,9
+13,Trade School,1
+13,Travel & Transport,1
+13,University,42
+13,Vegetarian / Vegan Restaurant,5
+13,Zoo,3
+14,American Restaurant,34
+14,Arcade,11
+14,Art Gallery,4
+14,Art Museum,2
+14,Arts & Crafts Store,2
+14,Asian Restaurant,1
+14,BBQ Joint,7
+14,Bagel Shop,26
+14,Bakery,26
+14,Bar,64
+14,Beach,28
+14,Bookstore,7
+14,Breakfast Spot,11
+14,Bridal Shop,17
+14,Bridge,23
+14,Burger Joint,7
+14,Burrito Place,15
+14,Campground,4
+14,Candy Store,4
+14,Car Dealership,2
+14,Car Wash,2
+14,Caribbean Restaurant,4
+14,Casino,1
+14,Cemetery,2
+14,Chinese Restaurant,8
+14,Church,46
+14,City,1
+14,Coffee Shop,135
+14,College & University,3
+14,College Academic Building,102
+14,College Stadium,1
+14,College Theater,1
+14,Comedy Club,6
+14,Community College,4
+14,Concert Hall,2
+14,Convenience Store,8
+14,Convention Center,11
+14,Cosmetics Shop,5
+14,Cuban Restaurant,3
+14,Cupcake Shop,6
+14,Deli / Bodega,75
+14,Department Store,24
+14,Dessert Shop,2
+14,Diner,26
+14,Donut Shop,32
+14,Eastern European Restaurant,1
+14,Embassy / Consulate,1
+14,Event Space,14
+14,Factory,1
+14,Fast Food Restaurant,23
+14,Ferry,7
+14,Flea Market,4
+14,Flower Shop,2
+14,Food & Drink Shop,93
+14,Food Truck,9
+14,French Restaurant,8
+14,Fried Chicken Joint,1
+14,Furniture / Home Store,11
+14,Garden,7
+14,General College & University,8
+14,General Entertainment,18
+14,General Travel,13
+14,Gift Shop,2
+14,Government Building,33
+14,Harbor / Marina,3
+14,High School,13
+14,Historic Site,2
+14,History Museum,4
+14,Ice Cream Shop,3
+14,Indian Restaurant,2
+14,Italian Restaurant,14
+14,Jewelry Store,3
+14,Korean Restaurant,2
+14,Latin American Restaurant,2
+14,Laundry Service,15
+14,Law School,2
+14,Library,12
+14,Light Rail,8
+14,Mall,17
+14,Mediterranean Restaurant,1
+14,Mexican Restaurant,7
+14,Middle School,4
+14,Miscellaneous Shop,19
+14,Movie Theater,20
+14,Moving Target,4
+14,Museum,9
+14,Music Venue,13
+14,Nail Salon,1
+14,Other Great Outdoors,64
+14,Other Nightlife,6
+14,Outdoors & Recreation,3
+14,Paper / Office Supplies Store,5
+14,Park,62
+14,Performing Arts Venue,6
+14,Pet Store,1
+14,Pizza Place,9
+14,Playground,18
+14,Plaza,16
+14,Pool,1
+14,Professional & Other Places,3
+14,Record Shop,1
+14,Rental Car Location,2
+14,Residential Building (Apartment / Condo),37
+14,Rest Area,1
+14,Restaurant,6
+14,River,3
+14,Salad Place,2
+14,Salon / Barbershop,37
+14,Sandwich Place,21
+14,Scenic Lookout,22
+14,School,18
+14,Science Museum,7
+14,Sculpture Garden,5
+14,Seafood Restaurant,15
+14,Snack Place,1
+14,Soup Place,1
+14,Southern / Soul Food Restaurant,1
+14,Spa / Massage,9
+14,Spanish Restaurant,7
+14,Sporting Goods Shop,3
+14,Stadium,10
+14,Storage Facility,1
+14,Student Center,2
+14,Sushi Restaurant,4
+14,Synagogue,7
+14,Taco Place,1
+14,Tanning Salon,1
+14,Taxi,3
+14,Tea Room,1
+14,Theater,17
+14,Thrift / Vintage Store,3
+14,Toy / Game Store,5
+14,Travel & Transport,2
+14,University,31
+14,Vegetarian / Vegan Restaurant,1
+14,Video Game Store,1
+14,Video Store,1
+14,Zoo,5
+15,African Restaurant,1
+15,American Restaurant,27
+15,Animal Shelter,1
+15,Arcade,6
+15,Art Gallery,1
+15,Art Museum,6
+15,Arts & Crafts Store,4
+15,Asian Restaurant,6
+15,Australian Restaurant,1
+15,BBQ Joint,3
+15,Bagel Shop,24
+15,Bakery,30
+15,Bar,54
+15,Beach,1
+15,Beer Garden,2
+15,Bike Shop,3
+15,Bookstore,18
+15,Breakfast Spot,11
+15,Bridge,22
+15,Burger Joint,22
+15,Burrito Place,1
+15,Cajun / Creole Restaurant,2
+15,Campground,2
+15,Candy Store,3
+15,Car Wash,1
+15,Caribbean Restaurant,2
+15,Casino,1
+15,Cemetery,2
+15,Chinese Restaurant,14
+15,Church,38
+15,Coffee Shop,96
+15,College & University,3
+15,College Academic Building,76
+15,College Theater,2
+15,Community College,7
+15,Convenience Store,5
+15,Convention Center,9
+15,Cosmetics Shop,6
+15,Cuban Restaurant,1
+15,Cupcake Shop,3
+15,Deli / Bodega,46
+15,Department Store,34
+15,Design Studio,2
+15,Dessert Shop,5
+15,Dim Sum Restaurant,3
+15,Diner,32
+15,Donut Shop,15
+15,Dumpling Restaurant,1
+15,Eastern European Restaurant,1
+15,Event Space,7
+15,Fast Food Restaurant,16
+15,Ferry,15
+15,Filipino Restaurant,1
+15,Flea Market,6
+15,Flower Shop,1
+15,Food,5
+15,Food & Drink Shop,99
+15,Food Truck,19
+15,Fraternity House,2
+15,French Restaurant,11
+15,Fried Chicken Joint,1
+15,Furniture / Home Store,12
+15,Garden,8
+15,General College & University,6
+15,General Entertainment,23
+15,General Travel,10
+15,Gift Shop,2
+15,Government Building,30
+15,Greek Restaurant,1
+15,Harbor / Marina,4
+15,High School,7
+15,Historic Site,4
+15,History Museum,1
+15,Hot Dog Joint,5
+15,Housing Development,1
+15,Ice Cream Shop,7
+15,Italian Restaurant,12
+15,Japanese Restaurant,3
+15,Jewelry Store,6
+15,Korean Restaurant,1
+15,Latin American Restaurant,2
+15,Laundry Service,16
+15,Law School,2
+15,Library,6
+15,Light Rail,4
+15,Mall,28
+15,Mediterranean Restaurant,1
+15,Mexican Restaurant,16
+15,Middle Eastern Restaurant,1
+15,Miscellaneous Shop,20
+15,Molecular Gastronomy Restaurant,1
+15,Mosque,2
+15,Movie Theater,22
+15,Moving Target,7
+15,Museum,1
+15,Music Venue,12
+15,Nightlife Spot,1
+15,Other Great Outdoors,76
+15,Other Nightlife,1
+15,Outdoors & Recreation,6
+15,Paper / Office Supplies Store,6
+15,Park,58
+15,Performing Arts Venue,5
+15,Pet Store,7
+15,Pizza Place,22
+15,Playground,4
+15,Plaza,13
+15,Pool,1
+15,Portuguese Restaurant,1
+15,Professional & Other Places,4
+15,Ramen /  Noodle House,2
+15,Rental Car Location,1
+15,Residential Building (Apartment / Condo),37
+15,Rest Area,2
+15,Restaurant,13
+15,River,3
+15,Salad Place,2
+15,Salon / Barbershop,27
+15,Sandwich Place,23
+15,Scenic Lookout,11
+15,School,15
+15,Science Museum,4
+15,Sculpture Garden,10
+15,Seafood Restaurant,11
+15,Smoke Shop,4
+15,Snack Place,2
+15,Soup Place,1
+15,South American Restaurant,1
+15,Southern / Soul Food Restaurant,5
+15,Spa / Massage,6
+15,Spanish Restaurant,1
+15,Spiritual Center,1
+15,Sporting Goods Shop,6
+15,Stadium,9
+15,Steakhouse,1
+15,Student Center,8
+15,Sushi Restaurant,9
+15,Synagogue,2
+15,Taco Place,1
+15,Tattoo Parlor,1
+15,Taxi,1
+15,Tea Room,3
+15,Temple,1
+15,Thai Restaurant,3
+15,Theater,7
+15,Thrift / Vintage Store,1
+15,Toy / Game Store,5
+15,Travel & Transport,1
+15,University,35
+15,Vegetarian / Vegan Restaurant,2
+15,Video Game Store,2
+15,Vietnamese Restaurant,1
+15,Zoo,9
+16,American Restaurant,77
+16,Animal Shelter,2
+16,Arcade,3
+16,Art Gallery,10
+16,Art Museum,8
+16,Asian Restaurant,13
+16,BBQ Joint,10
+16,Bagel Shop,16
+16,Bakery,37
+16,Bar,80
+16,Beach,9
+16,Beer Garden,4
+16,Bike Shop,3
+16,Bookstore,6
+16,Brazilian Restaurant,2
+16,Breakfast Spot,7
+16,Brewery,1
+16,Bridal Shop,4
+16,Bridge,29
+16,Burger Joint,37
+16,Burrito Place,5
+16,Cajun / Creole Restaurant,1
+16,Campground,5
+16,Candy Store,3
+16,Car Wash,2
+16,Caribbean Restaurant,3
+16,Casino,13
+16,Cemetery,2
+16,Chinese Restaurant,35
+16,Church,30
+16,City,2
+16,Coffee Shop,104
+16,College & University,2
+16,College Academic Building,90
+16,College Theater,1
+16,Comedy Club,1
+16,Community College,5
+16,Convenience Store,5
+16,Convention Center,7
+16,Cosmetics Shop,18
+16,Cuban Restaurant,13
+16,Cupcake Shop,8
+16,Deli / Bodega,90
+16,Department Store,30
+16,Design Studio,1
+16,Dessert Shop,7
+16,Dim Sum Restaurant,2
+16,Diner,29
+16,Donut Shop,18
+16,Dumpling Restaurant,2
+16,Eastern European Restaurant,1
+16,Embassy / Consulate,1
+16,Event Space,8
+16,Fair,1
+16,Falafel Restaurant,4
+16,Fast Food Restaurant,34
+16,Ferry,16
+16,Filipino Restaurant,1
+16,Flea Market,7
+16,Flower Shop,1
+16,Food,4
+16,Food & Drink Shop,143
+16,Food Truck,32
+16,French Restaurant,25
+16,Fried Chicken Joint,4
+16,Furniture / Home Store,10
+16,Gaming Cafe,1
+16,Garden,4
+16,Gastropub,5
+16,General College & University,15
+16,General Entertainment,31
+16,General Travel,32
+16,Gift Shop,2
+16,Government Building,25
+16,Greek Restaurant,2
+16,Harbor / Marina,4
+16,High School,5
+16,Historic Site,4
+16,History Museum,3
+16,Hobby Shop,2
+16,Hot Dog Joint,3
+16,Housing Development,1
+16,Ice Cream Shop,9
+16,Indian Restaurant,9
+16,Italian Restaurant,43
+16,Japanese Restaurant,7
+16,Korean Restaurant,9
+16,Latin American Restaurant,15
+16,Laundry Service,21
+16,Law School,1
+16,Library,12
+16,Light Rail,4
+16,Mall,23
+16,Mediterranean Restaurant,2
+16,Mexican Restaurant,51
+16,Middle Eastern Restaurant,11
+16,Miscellaneous Shop,30
+16,Mosque,1
+16,Movie Theater,27
+16,Moving Target,6
+16,Museum,3
+16,Music Store,1
+16,Music Venue,9
+16,Nightlife Spot,1
+16,Nursery School,7
+16,Other Great Outdoors,73
+16,Other Nightlife,8
+16,Outdoors & Recreation,3
+16,Paper / Office Supplies Store,3
+16,Park,76
+16,Performing Arts Venue,12
+16,Pet Store,10
+16,Pizza Place,42
+16,Playground,8
+16,Plaza,27
+16,Portuguese Restaurant,1
+16,Professional & Other Places,1
+16,Ramen /  Noodle House,8
+16,Record Shop,3
+16,Recycling Facility,1
+16,Residential Building (Apartment / Condo),31
+16,Rest Area,2
+16,Restaurant,16
+16,River,2
+16,Salad Place,14
+16,Salon / Barbershop,22
+16,Sandwich Place,69
+16,Scenic Lookout,5
+16,School,14
+16,Science Museum,1
+16,Sculpture Garden,7
+16,Seafood Restaurant,25
+16,Ski Area,3
+16,Smoke Shop,5
+16,Snack Place,3
+16,Soup Place,9
+16,South American Restaurant,2
+16,Southern / Soul Food Restaurant,2
+16,Spa / Massage,7
+16,Spanish Restaurant,5
+16,Spiritual Center,2
+16,Sporting Goods Shop,8
+16,Stadium,26
+16,Steakhouse,7
+16,Student Center,9
+16,Sushi Restaurant,24
+16,Synagogue,3
+16,Taco Place,7
+16,Tanning Salon,2
+16,Tattoo Parlor,4
+16,Tea Room,2
+16,Thai Restaurant,18
+16,Theater,14
+16,Thrift / Vintage Store,5
+16,Toy / Game Store,5
+16,Trade School,7
+16,Travel & Transport,2
+16,University,37
+16,Vegetarian / Vegan Restaurant,7
+16,Video Game Store,4
+16,Video Store,1
+16,Vietnamese Restaurant,6
+16,Wings Joint,3
+16,Zoo,4
+17,American Restaurant,85
+17,Animal Shelter,1
+17,Aquarium,1
+17,Arcade,3
+17,Arepa Restaurant,1
+17,Art Gallery,11
+17,Art Museum,4
+17,Arts & Crafts Store,4
+17,Asian Restaurant,20
+17,Australian Restaurant,2
+17,BBQ Joint,15
+17,Bagel Shop,12
+17,Bakery,48
+17,Bar,107
+17,Beach,27
+17,Beer Garden,7
+17,Bike Rental / Bike Share,1
+17,Bike Shop,3
+17,Bookstore,24
+17,Bowling Alley,2
+17,Brazilian Restaurant,5
+17,Breakfast Spot,15
+17,Bridge,27
+17,Burger Joint,51
+17,Burrito Place,9
+17,Camera Store,1
+17,Campground,1
+17,Candy Store,7
+17,Caribbean Restaurant,5
+17,Casino,2
+17,Cemetery,2
+17,Chinese Restaurant,34
+17,Church,17
+17,City,1
+17,Coffee Shop,148
+17,College & University,1
+17,College Academic Building,103
+17,College Stadium,1
+17,College Theater,1
+17,Comedy Club,1
+17,Community College,7
+17,Concert Hall,2
+17,Convenience Store,20
+17,Convention Center,20
+17,Cosmetics Shop,16
+17,Cuban Restaurant,10
+17,Cupcake Shop,8
+17,Deli / Bodega,89
+17,Department Store,47
+17,Design Studio,3
+17,Dessert Shop,10
+17,Dim Sum Restaurant,3
+17,Diner,28
+17,Donut Shop,19
+17,Event Space,8
+17,Factory,2
+17,Falafel Restaurant,3
+17,Fast Food Restaurant,56
+17,Ferry,16
+17,Fish & Chips Shop,1
+17,Flea Market,17
+17,Flower Shop,3
+17,Food,5
+17,Food & Drink Shop,161
+17,Food Truck,41
+17,Fraternity House,2
+17,French Restaurant,26
+17,Fried Chicken Joint,6
+17,Funeral Home,1
+17,Furniture / Home Store,13
+17,Gaming Cafe,1
+17,Garden,6
+17,Gastropub,4
+17,General College & University,21
+17,General Entertainment,38
+17,General Travel,9
+17,German Restaurant,5
+17,Gift Shop,3
+17,Government Building,35
+17,Greek Restaurant,5
+17,Harbor / Marina,6
+17,High School,10
+17,Historic Site,2
+17,History Museum,2
+17,Hobby Shop,3
+17,Hot Dog Joint,2
+17,Housing Development,1
+17,Ice Cream Shop,20
+17,Indian Restaurant,12
+17,Italian Restaurant,28
+17,Japanese Restaurant,13
+17,Jewelry Store,5
+17,Korean Restaurant,4
+17,Latin American Restaurant,2
+17,Laundry Service,10
+17,Law School,3
+17,Library,17
+17,Light Rail,10
+17,Mac & Cheese Joint,1
+17,Mall,32
+17,Mediterranean Restaurant,8
+17,Mexican Restaurant,83
+17,Middle Eastern Restaurant,4
+17,Miscellaneous Shop,24
+17,Mosque,4
+17,Movie Theater,21
+17,Moving Target,5
+17,Museum,3
+17,Music Store,3
+17,Music Venue,13
+17,Nail Salon,1
+17,Nursery School,1
+17,Other Great Outdoors,84
+17,Other Nightlife,3
+17,Outdoors & Recreation,3
+17,Paper / Office Supplies Store,12
+17,Park,109
+17,Performing Arts Venue,8
+17,Peruvian Restaurant,1
+17,Pet Store,6
+17,Pizza Place,69
+17,Playground,9
+17,Plaza,46
+17,Pool,3
+17,Pool Hall,1
+17,Professional & Other Places,7
+17,Ramen /  Noodle House,9
+17,Record Shop,1
+17,Rental Car Location,1
+17,Residential Building (Apartment / Condo),60
+17,Rest Area,2
+17,Restaurant,31
+17,Salad Place,9
+17,Salon / Barbershop,27
+17,Sandwich Place,98
+17,Scenic Lookout,14
+17,School,16
+17,Science Museum,2
+17,Sculpture Garden,4
+17,Seafood Restaurant,13
+17,Smoke Shop,2
+17,Snack Place,2
+17,Soup Place,12
+17,South American Restaurant,4
+17,Southern / Soul Food Restaurant,3
+17,Spa / Massage,14
+17,Spanish Restaurant,1
+17,Spiritual Center,2
+17,Sporting Goods Shop,8
+17,Stadium,11
+17,Steakhouse,7
+17,Student Center,5
+17,Sushi Restaurant,30
+17,Synagogue,2
+17,Taco Place,10
+17,Tanning Salon,1
+17,Tapas Restaurant,2
+17,Tattoo Parlor,3
+17,Taxi,10
+17,Tea Room,5
+17,Thai Restaurant,22
+17,Theater,40
+17,Thrift / Vintage Store,8
+17,Toy / Game Store,5
+17,Trade School,4
+17,University,31
+17,Vegetarian / Vegan Restaurant,11
+17,Video Game Store,3
+17,Video Store,2
+17,Vietnamese Restaurant,4
+17,Wings Joint,4
+17,Zoo,1
+18,African Restaurant,1
+18,American Restaurant,73
+18,Animal Shelter,6
+18,Antique Shop,3
+18,Arcade,3
+18,Art Gallery,18
+18,Art Museum,5
+18,Arts & Crafts Store,29
+18,Arts & Entertainment,1
+18,Asian Restaurant,14
+18,BBQ Joint,8
+18,Bagel Shop,6
+18,Bakery,34
+18,Bar,95
+18,Beach,14
+18,Beer Garden,9
+18,Bike Shop,4
+18,Bookstore,22
+18,Bowling Alley,2
+18,Breakfast Spot,7
+18,Brewery,2
+18,Bridal Shop,2
+18,Bridge,21
+18,Burger Joint,27
+18,Burrito Place,7
+18,Cajun / Creole Restaurant,1
+18,Campground,1
+18,Candy Store,6
+18,Car Dealership,1
+18,Car Wash,1
+18,Caribbean Restaurant,5
+18,Cemetery,5
+18,Chinese Restaurant,25
+18,Church,8
+18,City,2
+18,Coffee Shop,144
+18,College Academic Building,118
+18,College Stadium,1
+18,Comedy Club,1
+18,Community College,8
+18,Concert Hall,2
+18,Convenience Store,11
+18,Convention Center,10
+18,Cosmetics Shop,20
+18,Cuban Restaurant,8
+18,Cupcake Shop,5
+18,Deli / Bodega,67
+18,Department Store,46
+18,Design Studio,1
+18,Dessert Shop,7
+18,Dim Sum Restaurant,3
+18,Diner,26
+18,Distillery,2
+18,Donut Shop,28
+18,Dumpling Restaurant,1
+18,Eastern European Restaurant,1
+18,Ethiopian Restaurant,1
+18,Event Space,10
+18,Fast Food Restaurant,40
+18,Ferry,17
+18,Flea Market,17
+18,Flower Shop,2
+18,Food,2
+18,Food & Drink Shop,185
+18,Food Truck,20
+18,French Restaurant,15
+18,Fried Chicken Joint,10
+18,Furniture / Home Store,26
+18,Gaming Cafe,1
+18,Garden,9
+18,Gastropub,3
+18,General College & University,11
+18,General Entertainment,43
+18,General Travel,19
+18,German Restaurant,1
+18,Gift Shop,7
+18,Government Building,43
+18,Greek Restaurant,1
+18,Harbor / Marina,3
+18,High School,18
+18,Historic Site,5
+18,History Museum,2
+18,Hobby Shop,1
+18,Hot Dog Joint,4
+18,Housing Development,7
+18,Ice Cream Shop,25
+18,Indian Restaurant,5
+18,Italian Restaurant,37
+18,Japanese Restaurant,6
+18,Jewelry Store,3
+18,Korean Restaurant,3
+18,Latin American Restaurant,5
+18,Laundry Service,18
+18,Library,11
+18,Light Rail,7
+18,Mac & Cheese Joint,1
+18,Malaysian Restaurant,1
+18,Mall,22
+18,Medical School,1
+18,Mediterranean Restaurant,3
+18,Mexican Restaurant,50
+18,Middle Eastern Restaurant,2
+18,Miscellaneous Shop,30
+18,Mosque,1
+18,Movie Theater,39
+18,Moving Target,8
+18,Museum,6
+18,Music Store,1
+18,Music Venue,8
+18,Nail Salon,2
+18,Nursery School,1
+18,Other Great Outdoors,76
+18,Other Nightlife,4
+18,Outdoors & Recreation,5
+18,Paper / Office Supplies Store,5
+18,Park,111
+18,Performing Arts Venue,6
+18,Pet Store,6
+18,Pizza Place,53
+18,Planetarium,1
+18,Playground,5
+18,Plaza,35
+18,Pool,3
+18,Professional & Other Places,2
+18,Ramen /  Noodle House,10
+18,Record Shop,2
+18,Rental Car Location,2
+18,Residential Building (Apartment / Condo),45
+18,Rest Area,1
+18,Restaurant,20
+18,River,1
+18,Salad Place,5
+18,Salon / Barbershop,37
+18,Sandwich Place,69
+18,Scenic Lookout,15
+18,School,11
+18,Science Museum,4
+18,Sculpture Garden,3
+18,Seafood Restaurant,10
+18,Shop & Service,1
+18,Smoke Shop,2
+18,Snack Place,6
+18,Soup Place,8
+18,South American Restaurant,2
+18,Southern / Soul Food Restaurant,4
+18,Spa / Massage,9
+18,Spanish Restaurant,3
+18,Sporting Goods Shop,8
+18,Stadium,16
+18,Steakhouse,3
+18,Student Center,13
+18,Sushi Restaurant,15
+18,Synagogue,1
+18,Taco Place,7
+18,Tanning Salon,3
+18,Tapas Restaurant,3
+18,Tattoo Parlor,8
+18,Taxi,4
+18,Tea Room,7
+18,Temple,1
+18,Thai Restaurant,12
+18,Theater,24
+18,Thrift / Vintage Store,4
+18,Toy / Game Store,8
+18,Trade School,2
+18,University,24
+18,Vegetarian / Vegan Restaurant,6
+18,Video Game Store,1
+18,Vietnamese Restaurant,4
+18,Wings Joint,3
+18,Zoo,1
+19,American Restaurant,46
+19,Animal Shelter,1
+19,Aquarium,1
+19,Arcade,1
+19,Argentinian Restaurant,1
+19,Art Gallery,13
+19,Art Museum,5
+19,Arts & Crafts Store,7
+19,Asian Restaurant,11
+19,Australian Restaurant,1
+19,BBQ Joint,8
+19,Bagel Shop,8
+19,Bakery,25
+19,Bar,122
+19,Beach,9
+19,Beer Garden,9
+19,Bike Shop,4
+19,Board Shop,2
+19,Bookstore,16
+19,Bowling Alley,4
+19,Brazilian Restaurant,2
+19,Breakfast Spot,12
+19,Brewery,2
+19,Bridge,27
+19,Burger Joint,35
+19,Burrito Place,7
+19,Cajun / Creole Restaurant,1
+19,Campground,4
+19,Candy Store,10
+19,Car Dealership,2
+19,Car Wash,3
+19,Caribbean Restaurant,5
+19,Chinese Restaurant,14
+19,Church,6
+19,City,1
+19,Coffee Shop,154
+19,College Academic Building,93
+19,College Stadium,2
+19,Comedy Club,2
+19,Community College,4
+19,Concert Hall,1
+19,Convenience Store,6
+19,Convention Center,11
+19,Cosmetics Shop,23
+19,Cuban Restaurant,8
+19,Cupcake Shop,9
+19,Deli / Bodega,54
+19,Department Store,41
+19,Design Studio,1
+19,Dessert Shop,9
+19,Diner,12
+19,Donut Shop,18
+19,Eastern European Restaurant,3
+19,Elementary School,1
+19,Embassy / Consulate,1
+19,Event Space,7
+19,Factory,2
+19,Falafel Restaurant,1
+19,Fast Food Restaurant,40
+19,Ferry,17
+19,Fish & Chips Shop,1
+19,Flea Market,15
+19,Flower Shop,4
+19,Food,1
+19,Food & Drink Shop,183
+19,Food Truck,13
+19,French Restaurant,10
+19,Fried Chicken Joint,7
+19,Funeral Home,1
+19,Furniture / Home Store,20
+19,Garden,12
+19,Gastropub,1
+19,General College & University,8
+19,General Entertainment,21
+19,General Travel,20
+19,German Restaurant,3
+19,Gift Shop,6
+19,Government Building,22
+19,Greek Restaurant,2
+19,Harbor / Marina,5
+19,High School,5
+19,Historic Site,3
+19,History Museum,3
+19,Hobby Shop,3
+19,Hot Dog Joint,3
+19,Housing Development,1
+19,Ice Cream Shop,22
+19,Indian Restaurant,4
+19,Italian Restaurant,19
+19,Japanese Restaurant,6
+19,Jewelry Store,3
+19,Korean Restaurant,8
+19,Latin American Restaurant,5
+19,Laundry Service,13
+19,Law School,5
+19,Library,17
+19,Light Rail,10
+19,Mall,29
+19,Mediterranean Restaurant,4
+19,Mexican Restaurant,38
+19,Miscellaneous Shop,25
+19,Moroccan Restaurant,1
+19,Movie Theater,47
+19,Moving Target,11
+19,Museum,5
+19,Music Store,2
+19,Music Venue,16
+19,Nail Salon,2
+19,Other Great Outdoors,86
+19,Other Nightlife,3
+19,Outdoors & Recreation,5
+19,Paper / Office Supplies Store,4
+19,Park,137
+19,Performing Arts Venue,4
+19,Peruvian Restaurant,1
+19,Pet Store,10
+19,Pizza Place,42
+19,Playground,8
+19,Plaza,26
+19,Pool,5
+19,Professional & Other Places,2
+19,Racetrack,2
+19,Ramen /  Noodle House,6
+19,Rental Car Location,1
+19,Residential Building (Apartment / Condo),30
+19,Rest Area,4
+19,Restaurant,5
+19,River,2
+19,Salad Place,2
+19,Salon / Barbershop,54
+19,Sandwich Place,48
+19,Scenic Lookout,16
+19,School,12
+19,Sculpture Garden,1
+19,Seafood Restaurant,12
+19,Smoke Shop,5
+19,Snack Place,3
+19,Soup Place,2
+19,Spa / Massage,10
+19,Spanish Restaurant,10
+19,Sporting Goods Shop,15
+19,Stadium,17
+19,Steakhouse,5
+19,Student Center,13
+19,Sushi Restaurant,9
+19,Taco Place,8
+19,Tanning Salon,2
+19,Tattoo Parlor,9
+19,Tea Room,5
+19,Temple,2
+19,Thai Restaurant,7
+19,Theater,11
+19,Thrift / Vintage Store,7
+19,Toy / Game Store,5
+19,Travel & Transport,2
+19,University,27
+19,Vegetarian / Vegan Restaurant,6
+19,Video Game Store,4
+19,Video Store,1
+19,Vietnamese Restaurant,4
+19,Wings Joint,1
+19,Zoo,2
+20,African Restaurant,1
+20,American Restaurant,41
+20,Antique Shop,2
+20,Arcade,1
+20,Art Gallery,11
+20,Art Museum,11
+20,Arts & Crafts Store,3
+20,Asian Restaurant,14
+20,BBQ Joint,12
+20,Bagel Shop,6
+20,Bakery,31
+20,Bar,123
+20,Beach,6
+20,Beer Garden,15
+20,Bike Shop,6
+20,Board Shop,1
+20,Bookstore,12
+20,Bowling Alley,3
+20,Brazilian Restaurant,2
+20,Breakfast Spot,4
+20,Bridge,22
+20,Burger Joint,16
+20,Burrito Place,6
+20,Camera Store,3
+20,Campground,8
+20,Candy Store,2
+20,Car Wash,1
+20,Caribbean Restaurant,6
+20,Casino,1
+20,Cemetery,1
+20,Chinese Restaurant,23
+20,Church,14
+20,Coffee Shop,132
+20,College & University,1
+20,College Academic Building,65
+20,College Stadium,1
+20,Comedy Club,6
+20,Community College,8
+20,Concert Hall,2
+20,Convenience Store,14
+20,Convention Center,10
+20,Cosmetics Shop,16
+20,Cuban Restaurant,4
+20,Cupcake Shop,5
+20,Deli / Bodega,38
+20,Department Store,45
+20,Design Studio,3
+20,Dessert Shop,16
+20,Diner,11
+20,Donut Shop,15
+20,Dumpling Restaurant,1
+20,Elementary School,2
+20,Event Space,3
+20,Factory,1
+20,Falafel Restaurant,1
+20,Fast Food Restaurant,35
+20,Ferry,8
+20,Filipino Restaurant,1
+20,Flea Market,9
+20,Flower Shop,2
+20,Food,4
+20,Food & Drink Shop,154
+20,Food Truck,15
+20,French Restaurant,11
+20,Fried Chicken Joint,9
+20,Funeral Home,1
+20,Furniture / Home Store,13
+20,Garden,4
+20,Gastropub,4
+20,General College & University,9
+20,General Entertainment,21
+20,General Travel,30
+20,Government Building,22
+20,Greek Restaurant,2
+20,Harbor / Marina,7
+20,High School,2
+20,Historic Site,5
+20,History Museum,1
+20,Hot Dog Joint,7
+20,Housing Development,2
+20,Ice Cream Shop,19
+20,Indian Restaurant,2
+20,Italian Restaurant,18
+20,Japanese Restaurant,3
+20,Jewelry Store,5
+20,Korean Restaurant,4
+20,Latin American Restaurant,8
+20,Laundry Service,10
+20,Library,11
+20,Light Rail,7
+20,Mac & Cheese Joint,1
+20,Malaysian Restaurant,1
+20,Mall,35
+20,Medical School,1
+20,Mediterranean Restaurant,2
+20,Mexican Restaurant,40
+20,Middle Eastern Restaurant,5
+20,Miscellaneous Shop,14
+20,Moroccan Restaurant,1
+20,Movie Theater,40
+20,Moving Target,16
+20,Museum,5
+20,Music Store,4
+20,Music Venue,11
+20,Nail Salon,4
+20,Other Great Outdoors,76
+20,Other Nightlife,5
+20,Outdoors & Recreation,9
+20,Paper / Office Supplies Store,6
+20,Park,139
+20,Performing Arts Venue,6
+20,Pet Store,5
+20,Pizza Place,44
+20,Playground,11
+20,Plaza,26
+20,Pool,1
+20,Professional & Other Places,2
+20,Racetrack,4
+20,Ramen /  Noodle House,2
+20,Record Shop,1
+20,Residential Building (Apartment / Condo),47
+20,Rest Area,3
+20,Restaurant,9
+20,River,1
+20,Salad Place,1
+20,Salon / Barbershop,27
+20,Sandwich Place,21
+20,Scenic Lookout,8
+20,School,12
+20,Sculpture Garden,1
+20,Seafood Restaurant,6
+20,Smoke Shop,10
+20,Snack Place,4
+20,South American Restaurant,1
+20,Southern / Soul Food Restaurant,4
+20,Spa / Massage,10
+20,Spanish Restaurant,5
+20,Sporting Goods Shop,15
+20,Stadium,17
+20,Steakhouse,3
+20,Student Center,6
+20,Sushi Restaurant,10
+20,Synagogue,1
+20,Taco Place,6
+20,Tanning Salon,4
+20,Tapas Restaurant,1
+20,Tattoo Parlor,5
+20,Tea Room,7
+20,Temple,1
+20,Thai Restaurant,3
+20,Theater,11
+20,Thrift / Vintage Store,7
+20,Toy / Game Store,11
+20,Turkish Restaurant,1
+20,University,14
+20,Vegetarian / Vegan Restaurant,3
+20,Video Game Store,1
+20,Video Store,1
+20,Vietnamese Restaurant,1
+20,Wings Joint,4
+20,Zoo,1
+21,American Restaurant,63
+21,Arcade,3
+21,Art Gallery,2
+21,Art Museum,6
+21,Arts & Crafts Store,5
+21,Arts & Entertainment,1
+21,Asian Restaurant,12
+21,BBQ Joint,8
+21,Bagel Shop,3
+21,Bakery,29
+21,Bar,207
+21,Beach,12
+21,Beer Garden,10
+21,Bike Shop,5
+21,Bookstore,16
+21,Bowling Alley,2
+21,Brazilian Restaurant,2
+21,Breakfast Spot,7
+21,Brewery,4
+21,Bridal Shop,2
+21,Bridge,36
+21,Burger Joint,27
+21,Burrito Place,4
+21,Camera Store,1
+21,Campground,5
+21,Candy Store,5
+21,Car Wash,1
+21,Caribbean Restaurant,2
+21,Cemetery,1
+21,Chinese Restaurant,18
+21,Church,21
+21,City,2
+21,Coffee Shop,93
+21,College & University,1
+21,College Academic Building,71
+21,College Stadium,1
+21,Comedy Club,3
+21,Community College,10
+21,Convenience Store,5
+21,Convention Center,14
+21,Cosmetics Shop,18
+21,Cuban Restaurant,4
+21,Cupcake Shop,6
+21,Deli / Bodega,54
+21,Department Store,52
+21,Design Studio,1
+21,Dessert Shop,8
+21,Diner,16
+21,Donut Shop,9
+21,Dumpling Restaurant,2
+21,Eastern European Restaurant,1
+21,Elementary School,2
+21,Event Space,9
+21,Factory,3
+21,Falafel Restaurant,2
+21,Fast Food Restaurant,26
+21,Ferry,19
+21,Flea Market,3
+21,Flower Shop,2
+21,Food,4
+21,Food & Drink Shop,157
+21,Food Truck,11
+21,Fraternity House,1
+21,French Restaurant,14
+21,Fried Chicken Joint,4
+21,Funeral Home,1
+21,Furniture / Home Store,17
+21,Garden,5
+21,Gastropub,5
+21,General College & University,14
+21,General Entertainment,25
+21,General Travel,27
+21,German Restaurant,2
+21,Gift Shop,4
+21,Gluten-free Restaurant,1
+21,Government Building,20
+21,Greek Restaurant,2
+21,Harbor / Marina,4
+21,High School,3
+21,Historic Site,10
+21,Hobby Shop,2
+21,Hot Dog Joint,8
+21,Housing Development,7
+21,Ice Cream Shop,27
+21,Indian Restaurant,2
+21,Italian Restaurant,25
+21,Japanese Restaurant,4
+21,Jewelry Store,1
+21,Korean Restaurant,3
+21,Latin American Restaurant,5
+21,Laundry Service,16
+21,Law School,1
+21,Library,10
+21,Light Rail,9
+21,Mac & Cheese Joint,2
+21,Malaysian Restaurant,1
+21,Mall,37
+21,Mediterranean Restaurant,2
+21,Mexican Restaurant,44
+21,Middle Eastern Restaurant,2
+21,Miscellaneous Shop,27
+21,Movie Theater,32
+21,Moving Target,7
+21,Museum,4
+21,Music Store,1
+21,Music Venue,5
+21,Nail Salon,2
+21,Other Great Outdoors,97
+21,Other Nightlife,7
+21,Outdoors & Recreation,8
+21,Paper / Office Supplies Store,5
+21,Park,129
+21,Performing Arts Venue,17
+21,Pet Store,3
+21,Pizza Place,37
+21,Playground,15
+21,Plaza,21
+21,Pool,2
+21,Professional & Other Places,1
+21,Racetrack,1
+21,Ramen /  Noodle House,3
+21,Record Shop,2
+21,Rental Car Location,2
+21,Residential Building (Apartment / Condo),66
+21,Rest Area,2
+21,Restaurant,9
+21,River,2
+21,Salad Place,2
+21,Salon / Barbershop,29
+21,Sandwich Place,21
+21,Scandinavian Restaurant,2
+21,Scenic Lookout,13
+21,School,13
+21,Sculpture Garden,6
+21,Seafood Restaurant,18
+21,Smoke Shop,2
+21,Snack Place,2
+21,Sorority House,1
+21,Southern / Soul Food Restaurant,3
+21,Spa / Massage,16
+21,Spanish Restaurant,8
+21,Sporting Goods Shop,8
+21,Stadium,15
+21,Steakhouse,8
+21,Student Center,8
+21,Sushi Restaurant,18
+21,Synagogue,3
+21,Taco Place,6
+21,Tanning Salon,4
+21,Tapas Restaurant,5
+21,Tattoo Parlor,4
+21,Tea Room,8
+21,Thai Restaurant,9
+21,Theater,24
+21,Thrift / Vintage Store,6
+21,Toy / Game Store,11
+21,Travel & Transport,1
+21,University,34
+21,Vegetarian / Vegan Restaurant,4
+21,Video Game Store,4
+21,Vietnamese Restaurant,2
+21,Winery,3
+21,Wings Joint,6
+21,Zoo,1
+22,African Restaurant,1
+22,American Restaurant,86
+22,Animal Shelter,3
+22,Antique Shop,1
+22,Arcade,8
+22,Art Gallery,18
+22,Art Museum,2
+22,Arts & Crafts Store,7
+22,Arts & Entertainment,1
+22,Asian Restaurant,14
+22,Australian Restaurant,2
+22,BBQ Joint,12
+22,Bagel Shop,12
+22,Bakery,27
+22,Bar,309
+22,Beach,13
+22,Beer Garden,15
+22,Bike Shop,3
+22,Bookstore,19
+22,Bowling Alley,8
+22,Brazilian Restaurant,1
+22,Breakfast Spot,5
+22,Brewery,7
+22,Bridal Shop,2
+22,Bridge,35
+22,Burger Joint,39
+22,Burrito Place,10
+22,Cajun / Creole Restaurant,5
+22,Campground,3
+22,Candy Store,12
+22,Car Dealership,1
+22,Caribbean Restaurant,7
+22,Cemetery,3
+22,Chinese Restaurant,37
+22,Church,19
+22,City,1
+22,Coffee Shop,94
+22,College Academic Building,89
+22,Comedy Club,7
+22,Community College,15
+22,Concert Hall,5
+22,Convenience Store,5
+22,Convention Center,8
+22,Cosmetics Shop,18
+22,Cuban Restaurant,7
+22,Cupcake Shop,7
+22,Deli / Bodega,53
+22,Department Store,43
+22,Design Studio,3
+22,Dessert Shop,15
+22,Diner,10
+22,Donut Shop,6
+22,Eastern European Restaurant,2
+22,Elementary School,2
+22,Embassy / Consulate,2
+22,Event Space,11
+22,Factory,2
+22,Fast Food Restaurant,31
+22,Ferry,26
+22,Filipino Restaurant,1
+22,Fish & Chips Shop,1
+22,Flea Market,4
+22,Food,2
+22,Food & Drink Shop,162
+22,Food Truck,7
+22,Fraternity House,1
+22,French Restaurant,20
+22,Fried Chicken Joint,4
+22,Funeral Home,2
+22,Furniture / Home Store,20
+22,Gaming Cafe,2
+22,Garden,7
+22,Gastropub,10
+22,General College & University,22
+22,General Entertainment,39
+22,General Travel,17
+22,German Restaurant,2
+22,Gift Shop,6
+22,Government Building,17
+22,Greek Restaurant,4
+22,Harbor / Marina,6
+22,High School,12
+22,Historic Site,3
+22,History Museum,5
+22,Hobby Shop,3
+22,Hot Dog Joint,5
+22,Housing Development,3
+22,Ice Cream Shop,26
+22,Indian Restaurant,9
+22,Italian Restaurant,67
+22,Japanese Restaurant,16
+22,Jewelry Store,4
+22,Korean Restaurant,6
+22,Latin American Restaurant,3
+22,Laundry Service,12
+22,Library,4
+22,Light Rail,16
+22,Mac & Cheese Joint,1
+22,Malaysian Restaurant,3
+22,Mall,31
+22,Medical School,2
+22,Mediterranean Restaurant,2
+22,Mexican Restaurant,55
+22,Middle Eastern Restaurant,6
+22,Miscellaneous Shop,25
+22,Molecular Gastronomy Restaurant,1
+22,Movie Theater,50
+22,Moving Target,7
+22,Museum,6
+22,Music Store,4
+22,Music Venue,21
+22,Nail Salon,3
+22,Other Great Outdoors,90
+22,Other Nightlife,5
+22,Outdoors & Recreation,6
+22,Paper / Office Supplies Store,9
+22,Park,128
+22,Performing Arts Venue,14
+22,Peruvian Restaurant,1
+22,Pet Store,12
+22,Pizza Place,58
+22,Playground,8
+22,Plaza,31
+22,Pool,1
+22,Pool Hall,2
+22,Professional & Other Places,1
+22,Racetrack,2
+22,Ramen /  Noodle House,3
+22,Record Shop,2
+22,Residential Building (Apartment / Condo),70
+22,Rest Area,2
+22,Restaurant,8
+22,Salad Place,1
+22,Salon / Barbershop,40
+22,Sandwich Place,25
+22,Scenic Lookout,14
+22,School,3
+22,Sculpture Garden,4
+22,Seafood Restaurant,19
+22,Smoke Shop,2
+22,Snack Place,3
+22,Soup Place,3
+22,South American Restaurant,2
+22,Southern / Soul Food Restaurant,2
+22,Spa / Massage,10
+22,Spanish Restaurant,4
+22,Spiritual Center,2
+22,Sporting Goods Shop,12
+22,Stadium,70
+22,Steakhouse,12
+22,Student Center,7
+22,Sushi Restaurant,33
+22,Swiss Restaurant,1
+22,Synagogue,2
+22,Taco Place,4
+22,Tanning Salon,1
+22,Tapas Restaurant,8
+22,Tattoo Parlor,7
+22,Taxi,3
+22,Tea Room,6
+22,Thai Restaurant,17
+22,Theater,48
+22,Thrift / Vintage Store,4
+22,Toy / Game Store,5
+22,Trade School,2
+22,Travel & Transport,2
+22,Travel Lounge,1
+22,University,31
+22,Vegetarian / Vegan Restaurant,9
+22,Video Game Store,1
+22,Video Store,1
+22,Vietnamese Restaurant,4
+22,Winery,2
+22,Wings Joint,4
+23,Afghan Restaurant,1
+23,African Restaurant,4
+23,American Restaurant,111
+23,Animal Shelter,2
+23,Arcade,4
+23,Arepa Restaurant,1
+23,Argentinian Restaurant,1
+23,Art Gallery,26
+23,Art Museum,10
+23,Arts & Crafts Store,5
+23,Arts & Entertainment,1
+23,Asian Restaurant,23
+23,Australian Restaurant,4
+23,BBQ Joint,32
+23,Bagel Shop,1
+23,Bakery,20
+23,Bar,381
+23,Beach,3
+23,Beer Garden,12
+23,Bike Shop,5
+23,Bookstore,13
+23,Bowling Alley,9
+23,Breakfast Spot,6
+23,Brewery,2
+23,Bridge,24
+23,Burger Joint,50
+23,Burrito Place,10
+23,Cajun / Creole Restaurant,2
+23,Candy Store,6
+23,Car Dealership,1
+23,Caribbean Restaurant,6
+23,Cemetery,3
+23,Chinese Restaurant,31
+23,Church,43
+23,City,2
+23,Coffee Shop,74
+23,College & University,1
+23,College Academic Building,48
+23,College Theater,3
+23,Comedy Club,10
+23,Community College,4
+23,Concert Hall,18
+23,Convenience Store,13
+23,Convention Center,6
+23,Cosmetics Shop,9
+23,Cuban Restaurant,9
+23,Cupcake Shop,7
+23,Deli / Bodega,43
+23,Department Store,29
+23,Design Studio,3
+23,Dessert Shop,16
+23,Diner,16
+23,Donut Shop,15
+23,Dumpling Restaurant,2
+23,Eastern European Restaurant,5
+23,Elementary School,1
+23,Ethiopian Restaurant,1
+23,Event Space,17
+23,Factory,1
+23,Falafel Restaurant,2
+23,Fast Food Restaurant,24
+23,Ferry,5
+23,Filipino Restaurant,1
+23,Food,3
+23,Food & Drink Shop,137
+23,Food Truck,4
+23,French Restaurant,16
+23,Fried Chicken Joint,10
+23,Furniture / Home Store,10
+23,Garden,1
+23,Gastropub,17
+23,General College & University,7
+23,General Entertainment,19
+23,General Travel,14
+23,German Restaurant,6
+23,Gift Shop,5
+23,Government Building,16
+23,Greek Restaurant,5
+23,Harbor / Marina,2
+23,High School,7
+23,Historic Site,5
+23,History Museum,2
+23,Hobby Shop,1
+23,Hot Dog Joint,6
+23,Housing Development,5
+23,Ice Cream Shop,21
+23,Indian Restaurant,5
+23,Italian Restaurant,67
+23,Japanese Restaurant,13
+23,Jewelry Store,3
+23,Korean Restaurant,19
+23,Latin American Restaurant,5
+23,Laundry Service,8
+23,Library,4
+23,Light Rail,13
+23,Mac & Cheese Joint,1
+23,Malaysian Restaurant,1
+23,Mall,26
+23,Mediterranean Restaurant,2
+23,Mexican Restaurant,84
+23,Middle Eastern Restaurant,7
+23,Miscellaneous Shop,17
+23,Movie Theater,68
+23,Moving Target,7
+23,Museum,2
+23,Music Store,1
+23,Music Venue,43
+23,Nail Salon,1
+23,Other Great Outdoors,98
+23,Other Nightlife,3
+23,Outdoors & Recreation,3
+23,Paper / Office Supplies Store,2
+23,Park,74
+23,Performing Arts Venue,29
+23,Pet Store,6
+23,Pizza Place,47
+23,Playground,10
+23,Plaza,24
+23,Pool,2
+23,Pool Hall,1
+23,Professional & Other Places,1
+23,Racetrack,1
+23,Ramen /  Noodle House,5
+23,Record Shop,1
+23,Residential Building (Apartment / Condo),61
+23,Rest Area,2
+23,Restaurant,21
+23,River,2
+23,Salad Place,3
+23,Salon / Barbershop,27
+23,Sandwich Place,27
+23,Scenic Lookout,9
+23,School,8
+23,Seafood Restaurant,26
+23,Shop & Service,2
+23,Ski Area,4
+23,Smoke Shop,2
+23,Snack Place,1
+23,South American Restaurant,2
+23,Southern / Soul Food Restaurant,6
+23,Spa / Massage,12
+23,Spanish Restaurant,6
+23,Spiritual Center,1
+23,Sporting Goods Shop,16
+23,Stadium,71
+23,Steakhouse,14
+23,Student Center,6
+23,Sushi Restaurant,44
+23,Synagogue,4
+23,Taco Place,6
+23,Tanning Salon,4
+23,Tapas Restaurant,9
+23,Tattoo Parlor,3
+23,Taxi,5
+23,Tea Room,5
+23,Thai Restaurant,25
+23,Theater,98
+23,Toy / Game Store,5
+23,Travel & Transport,4
+23,Turkish Restaurant,1
+23,University,13
+23,Vegetarian / Vegan Restaurant,14
+23,Video Game Store,1
+23,Vietnamese Restaurant,9
+23,Winery,1
+23,Wings Joint,6
